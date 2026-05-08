@@ -20,7 +20,7 @@ st.write("""
 - Qualifications
 - Responsibilities
 """)
-st.write("### Key Metrics")
+st.write("### Metrics")
 metric1, metric2, metric3 = st.columns(3)
 metric1.metric("Total Postings", str(raw_dataset.shape[0]))
 metric2.metric("Average Salary per Hour", str(parsed_dataset["Salary"].mean()))
