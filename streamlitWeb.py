@@ -4,6 +4,7 @@ raw_dataset = pd.read_csv("raw_datas_job_postings.csv")
 parsed_dataset = pd.read_csv("Parsed_dataset.csv")
 st.write("# Web Scraped Job posting Analysis")
 st.write("####  From Onlinejobs.ph")
+st.write("#####  Author: John Jefferson B. Leonardo")
 st.write("""This report investigates the **Philippine Data Analyst job market** by scraping 200 job posting from Onlinejobs.ph.
 The purpose of this report is to answer:
 - What is the most sought after skill for a DA position
