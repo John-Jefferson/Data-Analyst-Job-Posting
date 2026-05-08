@@ -1,0 +1,1474 @@
+ID,Skills,Salary
+1,Google Sheet,
+1,Metrics,
+2,Excel,5.0
+2,Cleaning,5.0
+2,Reporting,5.0
+2,Google Sheet,5.0
+2,Management,5.0
+3,Excel,5.62
+3, BI,5.62
+3,Communication,5.62
+3,Management,5.62
+4,SQL,7.81
+4,Python,7.81
+4,Communication,7.81
+4,Git,7.81
+5,Excel,9.75
+5,Reporting,9.75
+5,Dashboard,9.75
+5,Google Sheet,9.75
+5,Communication,9.75
+5,Metrics,9.75
+5,Git,9.75
+5,spreadsheet,9.75
+6, BI,4.66
+6, AI,4.66
+6,Reporting,4.66
+6,Communication,4.66
+6,KPI,4.66
+7,,4.69
+8,Excel,
+8,Tableau,
+8,Power BI,
+8, BI,
+8,Visual,
+8,Communication,
+8,Management,
+8,spreadsheet,
+9,SQL,4.66
+9,Python,4.66
+9,Excel,4.66
+9,Power BI,4.66
+9, BI,4.66
+9,Visual,4.66
+9,Data Modeling,4.66
+9,Reporting,4.66
+9,Dashboard,4.66
+9,Communication,4.66
+9,Stakeholder,4.66
+9,Management,4.66
+9,Governance,4.66
+9,Warehouse,4.66
+9,Storytelling,4.66
+10,Visual,5.0
+10,Reporting,5.0
+10,Dashboard,5.0
+10,Management,5.0
+10,KPI,5.0
+10,Strategy,5.0
+10,spreadsheet,5.0
+11,Excel,4.69
+11,Visual,4.69
+11,Communication,4.69
+12,SQL,7.88
+12,Power BI,7.88
+12, BI,7.88
+12,Visual,7.88
+12, AI,7.88
+12,Reporting,7.88
+12,Dashboard,7.88
+12,Communication,7.88
+12,Management,7.88
+13,SQL,5.0
+13,Python,5.0
+13, BI,5.0
+13, AI,5.0
+13,A/B,5.0
+13,Google Analytics,5.0
+13,Critical Thinking,5.0
+13,Communication,5.0
+13,KPI,5.0
+13,Metrics,5.0
+13,Pipeline,5.0
+13,Strategy,5.0
+14,SQL,
+14,Excel,
+14,Tableau,
+14,Power BI,
+14, BI,
+14,Cleaning,
+14,ETL,
+14,Data Modeling,
+14,Reporting,
+14,Dashboard,
+14,Google Sheet,
+14,Looker,
+14,Metrics,
+14,Warehouse,
+15,SQL,5.0
+15,Python,5.0
+15, BI,5.0
+15, AI,5.0
+15,A/B,5.0
+15,Google Analytics,5.0
+15,Critical Thinking,5.0
+15,Communication,5.0
+15,KPI,5.0
+15,Metrics,5.0
+15,Pipeline,5.0
+15,Strategy,5.0
+16,Excel,3.13
+16,Google Sheet,3.13
+16,Communication,3.13
+16,Stakeholder,3.13
+16,Management,3.13
+17,SQL,6.03
+17,Python,6.03
+17,Excel,6.03
+17,Tableau,6.03
+17,Power BI,6.03
+17, BI,6.03
+17, AI,6.03
+17,Cleaning,6.03
+17,Intelligence,6.03
+17,Reporting,6.03
+17,Dashboard,6.03
+17,Google Sheet,6.03
+17,Google Analytics,6.03
+17,Looker,6.03
+17,Communication,6.03
+17,Stakeholder,6.03
+17,Management,6.03
+17,KPI,6.03
+17,Metrics,6.03
+17,Git,6.03
+17,Strategy,6.03
+17,spreadsheet,6.03
+18,Excel,4.69
+18,Communication,4.69
+19,Reporting,10.0
+20,SQL,
+20,Python,
+20,Intelligence,
+20,Reporting,
+20,Dashboard,
+20,Communication,
+20,Pandas,
+20,Strategy,
+21,Excel,4.69
+21,Visual,4.69
+21,Communication,4.69
+22,SQL,
+22,Excel,
+22,Tableau,
+22,Visual,
+22,Reporting,
+22,Dashboard,
+22,Snowflake,
+22,Communication,
+22,Stakeholder,
+22,Management,
+22,Warehouse,
+23,Excel,7.5
+23,Reporting,7.5
+23,Dashboard,7.5
+23,Management,7.5
+23,Strategy,7.5
+24,SQL,
+24, BI,
+24,Reporting,
+24,Dashboard,
+24,Looker,
+24,Problem Solving,
+24,Communication,
+24,Stakeholder,
+24,Pipeline,
+25,SQL,5.0
+25,Python,5.0
+25,Excel,5.0
+25,Tableau,5.0
+25,Power BI,5.0
+25, BI,5.0
+25,Visual,5.0
+25,Statistic,5.0
+25,Reporting,5.0
+25,Dashboard,5.0
+25,Stakeholder,5.0
+25,Governance,5.0
+25,Metrics,5.0
+25,Storytelling,5.0
+26,SQL,
+26,Excel,
+26,Tableau,
+26,Power BI,
+26, BI,
+26,Visual,
+26,Statistic,
+26,Google Sheet,
+26,Management,
+26,Metrics,
+27,SQL,5.0
+27,Excel,5.0
+27,Power BI,5.0
+27, BI,5.0
+27,Visual,5.0
+27,Cleaning,5.0
+27,Data Modeling,5.0
+27,Reporting,5.0
+27,Dashboard,5.0
+27,Communication,5.0
+27,Stakeholder,5.0
+27,Pipeline,5.0
+27,Warehouse,5.0
+28,Google Sheet,4.66
+28,Metrics,4.66
+29, AI,7.68
+29,Metrics,7.68
+30,Excel,7.68
+30,Dashboard,7.68
+30,A/B,7.68
+30,Google Analytics,7.68
+30,Management,7.68
+30,Strategy,7.68
+30,spreadsheet,7.68
+31,Excel,8.0
+31,Statistic,8.0
+31,Dashboard,8.0
+31,A/B,8.0
+31,Google Analytics,8.0
+31,Management,8.0
+31,Strategy,8.0
+31,spreadsheet,8.0
+32,SQL,10.96
+32,Tableau,10.96
+32,Power BI,10.96
+32, BI,10.96
+32,Visual,10.96
+32, AI,10.96
+32,Reporting,10.96
+32,Dashboard,10.96
+32,Snowflake,10.96
+32,KPI,10.96
+32,Metrics,10.96
+32,Pipeline,10.96
+32,Warehouse,10.96
+32,spreadsheet,10.96
+33,SQL,13.75
+33,Tableau,13.75
+33, BI,13.75
+33,Visual,13.75
+33,Statistic,13.75
+33,Cleaning,13.75
+33,ETL,13.75
+33,Data Modeling,13.75
+33,Reporting,13.75
+33,Dashboard,13.75
+33,Google Analytics,13.75
+33,Stakeholder,13.75
+33,Management,13.75
+33,Pipeline,13.75
+33,Git,13.75
+34,SQL,6.0
+34,Excel,6.0
+34,Power BI,6.0
+34, BI,6.0
+34,Cleaning,6.0
+34,Data Modeling,6.0
+34,Reporting,6.0
+34,Dashboard,6.0
+34,Google Sheet,6.0
+34,Looker,6.0
+34,Communication,6.0
+34,Management,6.0
+34,KPI,6.0
+35,Excel,7.0
+35, BI,7.0
+35,Dashboard,7.0
+35,Google Sheet,7.0
+35,Metrics,7.0
+36,SQL,3.12
+36,Python,3.12
+36,Excel,3.12
+36, BI,3.12
+36,Visual,3.12
+36,Data Modeling,3.12
+36,Intelligence,3.12
+36,Reporting,3.12
+36,Dashboard,3.12
+36,Predictive,3.12
+36,Stakeholder,3.12
+36,Management,3.12
+36,KPI,3.12
+36,Strategy,3.12
+37,Excel,5.0
+37, AI,5.0
+38,Excel,9.45
+38,Power BI,9.45
+38, BI,9.45
+38,Visual,9.45
+38,Cleaning,9.45
+38,Data Modeling,9.45
+38,Reporting,9.45
+38,Dashboard,9.45
+38,Google Sheet,9.45
+38,Communication,9.45
+38,Management,9.45
+38,Metrics,9.45
+39,SQL,
+39,Excel,
+39,Power BI,
+39, BI,
+39,Visual,
+39,Reporting,
+39,Dashboard,
+39,Management,
+39,KPI,
+40,Excel,15.62
+40,Reporting,15.62
+40,Dashboard,15.62
+40,Google Sheet,15.62
+40,Looker,15.62
+40,Metrics,15.62
+40,Pipeline,15.62
+40,spreadsheet,15.62
+41, AI,17.19
+41,Metrics,17.19
+41,Strategy,17.19
+42, AI,17.19
+42,Metrics,17.19
+42,Strategy,17.19
+43, AI,8.59
+43,Metrics,8.59
+43,Strategy,8.59
+44,Reporting,14.0
+44,Communication,14.0
+44,Metrics,14.0
+44,Strategy,14.0
+45,Reporting,4.0
+45,Dashboard,4.0
+46,SQL,15.0
+46,Excel,15.0
+46,Tableau,15.0
+46,Power BI,15.0
+46, BI,15.0
+46,Visual,15.0
+46,Intelligence,15.0
+46,Reporting,15.0
+46,Dashboard,15.0
+46,Google Sheet,15.0
+46,Looker,15.0
+46,Communication,15.0
+46,Management,15.0
+46,Metrics,15.0
+47,Excel,4.48
+47, BI,4.48
+47,Visual,4.48
+47,Reporting,4.48
+47,Dashboard,4.48
+47,Management,4.48
+47,KPI,4.48
+48,Excel,5.0
+48, BI,5.0
+48,Reporting,5.0
+48,Dashboard,5.0
+48,Google Sheet,5.0
+48,Management,5.0
+48,Strategy,5.0
+49,Excel,
+49, AI,
+49,Cleaning,
+49,Reporting,
+49,Communication,
+49,Management,
+50,Python,
+50,Excel,
+50,Statistic,
+50, AI,
+50,Intelligence,
+50,Reporting,
+50,Communication,
+50,Stakeholder,
+51,Dashboard,6.5
+51,Google Sheet,6.5
+51,KPI,6.5
+51,Metrics,6.5
+52, BI,6.25
+52, AI,6.25
+52,Intelligence,6.25
+52,Reporting,6.25
+52,Dashboard,6.25
+52,Google Sheet,6.25
+52,Looker,6.25
+52,spreadsheet,6.25
+53,Excel,7.29
+53, AI,7.29
+53,Reporting,7.29
+53,Dashboard,7.29
+54,SQL,4.69
+54,Python,4.69
+54,Tableau,4.69
+54,Power BI,4.69
+54, BI,4.69
+54,Machine Learning,4.69
+54, AI,4.69
+54,Reporting,4.69
+54,Dashboard,4.69
+54,Stakeholder,4.69
+54,Governance,4.69
+54,KPI,4.69
+54,Metrics,4.69
+54,Strategy,4.69
+55,Excel,
+55, AI,
+55,Google Sheet,
+55,Metrics,
+55,spreadsheet,
+56,Excel,
+56, BI,
+56,Statistic,
+56,Dashboard,
+56,Google Sheet,
+57,Excel,3.8
+57,Communication,3.8
+57,Management,3.8
+58,,5.0
+59,Excel,4.11
+59,spreadsheet,4.11
+60,SQL,7.5
+60,Python,7.5
+60,Excel,7.5
+60,Visual,7.5
+60,ETL,7.5
+60,Reporting,7.5
+60,Dashboard,7.5
+60,Google Analytics,7.5
+60,Looker,7.5
+60,Communication,7.5
+60,Git,7.5
+61,SQL,4.69
+61,Python,4.69
+61,Tableau,4.69
+61,Power BI,4.69
+61, BI,4.69
+61,Visual,4.69
+61,Statistic,4.69
+61, AI,4.69
+61,ETL,4.69
+61,Data Modeling,4.69
+61,Intelligence,4.69
+61,Reporting,4.69
+61,Dashboard,4.69
+61,Predictive,4.69
+61,Communication,4.69
+61,Stakeholder,4.69
+61,Management,4.69
+61,Governance,4.69
+61,Pipeline,4.69
+61,Regression,4.69
+62,Excel,10.94
+62,Intelligence,10.94
+62,Reporting,10.94
+62,Communication,10.94
+62,KPI,10.94
+62,Git,10.94
+63,SQL,6.25
+63,Excel,6.25
+63,Tableau,6.25
+63,Visual,6.25
+63,Reporting,6.25
+63,Dashboard,6.25
+63,A/B,6.25
+63,Predictive,6.25
+63,Google Sheet,6.25
+63,Looker,6.25
+63,Communication,6.25
+63,Management,6.25
+63,Metrics,6.25
+63,spreadsheet,6.25
+64,Excel,7.5
+64,Visual,7.5
+64,Dashboard,7.5
+64,KPI,7.5
+65,Excel,4.69
+65, AI,4.69
+65,Dashboard,4.69
+65,Google Sheet,4.69
+65,Management,4.69
+65,Metrics,4.69
+66,Excel,3.12
+66,Strategy,3.12
+67,Excel,6.5
+67,Google Sheet,6.5
+67,Communication,6.5
+67,Management,6.5
+68,Python,1.88
+68,Excel,1.88
+68,Visual,1.88
+68, AI,1.88
+68,Reporting,1.88
+68,Google Sheet,1.88
+68,Communication,1.88
+68,KPI,1.88
+68,Strategy,1.88
+69,Excel,8.0
+69,Visual,8.0
+69,Dashboard,8.0
+69,Google Sheet,8.0
+69,Management,8.0
+69,KPI,8.0
+69,Metrics,8.0
+70,SQL,7.5
+70,Excel,7.5
+70, BI,7.5
+70,Visual,7.5
+70,Reporting,7.5
+70,Dashboard,7.5
+70,Google Sheet,7.5
+70,Google Analytics,7.5
+70,Looker,7.5
+70,Communication,7.5
+70,Management,7.5
+70,Metrics,7.5
+71,SQL,4.69
+71,Excel,4.69
+71,Power BI,4.69
+71, BI,4.69
+71,ETL,4.69
+71,Data Modeling,4.69
+71,Reporting,4.69
+71,Dashboard,4.69
+71,Governance,4.69
+71,KPI,4.69
+71,Metrics,4.69
+71,Pipeline,4.69
+72,Reporting,4.06
+72,Dashboard,4.06
+72,Metrics,4.06
+73, BI,8.0
+73, AI,8.0
+73,Communication,8.0
+73,Storytelling,8.0
+73,Strategy,8.0
+74, AI,13.16
+74,Reporting,13.16
+74,Dashboard,13.16
+74,Metrics,13.16
+74,Pipeline,13.16
+75,,6.25
+76,Reporting,7.81
+76,Dashboard,7.81
+76,Google Sheet,7.81
+76,KPI,7.81
+76,Pipeline,7.81
+77,Excel,137.5
+77,Tableau,137.5
+77, BI,137.5
+77,Reporting,137.5
+77,Dashboard,137.5
+77,Google Sheet,137.5
+77,Looker,137.5
+77,Problem Solving,137.5
+77,Communication,137.5
+77,Management,137.5
+77,Metrics,137.5
+77,Pipeline,137.5
+77,Strategy,137.5
+78,Data Modeling,7.5
+78,Predictive,7.5
+79,SQL,6.03
+79,Python,6.03
+79,Excel,6.03
+79,Tableau,6.03
+79,Power BI,6.03
+79, BI,6.03
+79,Visual,6.03
+79,Statistic,6.03
+79,Machine Learning,6.03
+79, AI,6.03
+79,Cleaning,6.03
+79,Data Modeling,6.03
+79,Communication,6.03
+79,Metrics,6.03
+79,Pipeline,6.03
+79,Pandas,6.03
+80,SQL,7.81
+80,Python,7.81
+80,Excel,7.81
+80,Power BI,7.81
+80, BI,7.81
+80,Visual,7.81
+80,Statistic,7.81
+80,ETL,7.81
+80,Data Modeling,7.81
+80,Intelligence,7.81
+80,Reporting,7.81
+80,Dashboard,7.81
+80,Communication,7.81
+80,Stakeholder,7.81
+80,Pipeline,7.81
+80,Azure,7.81
+80,Pandas,7.81
+80,NumPy,7.81
+81,SQL,
+81,Python,
+81,Statistic,
+81,Machine Learning,
+81,Reporting,
+81,Communication,
+81,Pipeline,
+81,Git,
+82,SQL,6.25
+82,Python,6.25
+82,Excel,6.25
+82,Visual,6.25
+82,Statistic,6.25
+82,Cleaning,6.25
+82,Reporting,6.25
+82,Dashboard,6.25
+82,Predictive,6.25
+82,Communication,6.25
+82,Stakeholder,6.25
+82,Management,6.25
+82,spreadsheet,6.25
+83,SQL,3.12
+83, BI,3.12
+83,Visual,3.12
+83,ETL,3.12
+83,Reporting,3.12
+83,Dashboard,3.12
+83,Google Analytics,3.12
+83,Pipeline,3.12
+83,Warehouse,3.12
+83,Git,3.12
+83,Strategy,3.12
+84,SQL,6.25
+84, BI,6.25
+84,Visual,6.25
+84,ETL,6.25
+84,Reporting,6.25
+84,Dashboard,6.25
+84,Google Analytics,6.25
+84,Pipeline,6.25
+84,Warehouse,6.25
+84,Git,6.25
+85,SQL,5.62
+85,Excel,5.62
+85,Tableau,5.62
+85,Power BI,5.62
+85, BI,5.62
+85,Visual,5.62
+85,Reporting,5.62
+85,Dashboard,5.62
+85,Google Sheet,5.62
+85,Communication,5.62
+85,KPI,5.62
+86,Excel,2.19
+86,Tableau,2.19
+86,Power BI,2.19
+86, BI,2.19
+86,Visual,2.19
+86,Statistic,2.19
+86,Reporting,2.19
+86,Communication,2.19
+86,Management,2.19
+87,Excel,5.0
+87, AI,5.0
+87,ETL,5.0
+87,Reporting,5.0
+87,Communication,5.0
+87,Management,5.0
+87,Git,5.0
+88,SQL,2.5
+88,Python,2.5
+88,Intelligence,2.5
+88,Predictive,2.5
+88,Pipeline,2.5
+88,AWS,2.5
+88,GCP,2.5
+88,Pandas,2.5
+88,Strategy,2.5
+89,SQL,
+89,Excel,
+89,Power BI,
+89, BI,
+89,Visual,
+89,Data Modeling,
+89,Intelligence,
+89,Dashboard,
+89,Snowflake,
+89,Communication,
+89,Stakeholder,
+90,SQL,7.5
+90,Python,7.5
+90,Excel,7.5
+90,Power BI,7.5
+90, BI,7.5
+90,ETL,7.5
+90,Data Modeling,7.5
+90,Intelligence,7.5
+90,Reporting,7.5
+90,Dashboard,7.5
+90,Communication,7.5
+90,Management,7.5
+90,Governance,7.5
+90,Metrics,7.5
+90,Pandas,7.5
+90,NumPy,7.5
+91,Excel,5.0
+91, AI,5.0
+91,Cleaning,5.0
+91,Reporting,5.0
+91,Dashboard,5.0
+91,Google Sheet,5.0
+91,Management,5.0
+91,KPI,5.0
+91,Strategy,5.0
+92,Excel,2.5
+92, AI,2.5
+92,Communication,2.5
+93,SQL,3.0
+93,Data Modeling,3.0
+93,Communication,3.0
+94,A/B,3.0
+94,Google Analytics,3.0
+94,Communication,3.0
+94,Metrics,3.0
+94,Git,3.0
+95,SQL,
+95,Python,
+95,Excel,
+95,Tableau,
+95,Reporting,
+95,Dashboard,
+95,Google Sheet,
+95,Google Analytics,
+95,Communication,
+95,Management,
+95,Git,
+96,SQL,10.0
+96,Python,10.0
+96,Excel,10.0
+96,Tableau,10.0
+96,Power BI,10.0
+96, BI,10.0
+96,Statistic,10.0
+96,Dashboard,10.0
+96,A/B,10.0
+96,Predictive,10.0
+96,Communication,10.0
+96,Stakeholder,10.0
+96,Metrics,10.0
+96,Git,10.0
+97,SQL,5.0
+97,Excel,5.0
+97,Reporting,5.0
+97,Management,5.0
+97,Strategy,5.0
+98,SQL,10.0
+98,Excel,10.0
+98,Power BI,10.0
+98, BI,10.0
+98,Visual,10.0
+98, AI,10.0
+98,Data Modeling,10.0
+98,Dashboard,10.0
+98,Communication,10.0
+98,Stakeholder,10.0
+98,KPI,10.0
+98,Azure,10.0
+98,Git,10.0
+98,Storytelling,10.0
+99,Excel,2.63
+99,Reporting,2.63
+99,Communication,2.63
+99,Management,2.63
+99,Metrics,2.63
+99,spreadsheet,2.63
+100,Excel,4.39
+100, BI,4.39
+100,Communication,4.39
+100,Management,4.39
+101,Intelligence,
+102,SQL,10.0
+102,Python,10.0
+102,Excel,10.0
+102,Tableau,10.0
+102,Power BI,10.0
+102, BI,10.0
+102,Visual,10.0
+102,Cleaning,10.0
+102,Reporting,10.0
+102,Dashboard,10.0
+102,Google Sheet,10.0
+102,Pandas,10.0
+102,NumPy,10.0
+102,Matplotlib,10.0
+102,Jupyter,10.0
+103, BI,4.69
+104,SQL,6.25
+104,Excel,6.25
+104,Tableau,6.25
+104,Power BI,6.25
+104, BI,6.25
+104,Visual,6.25
+104,Cleaning,6.25
+104,Reporting,6.25
+104,Dashboard,6.25
+104,Google Sheet,6.25
+104,Looker,6.25
+105, BI,
+105,Reporting,
+105,Dashboard,
+105,Google Sheet,
+105,Looker,
+105,KPI,
+105,Metrics,
+105,Pipeline,
+106,Excel,4.66
+106, AI,4.66
+106,Reporting,4.66
+106,Google Sheet,4.66
+106,Critical Thinking,4.66
+106,Communication,4.66
+106,Management,4.66
+106,Metrics,4.66
+106,Strategy,4.66
+106,spreadsheet,4.66
+107,Excel,5.0
+107,Visual,5.0
+107,Communication,5.0
+108,SQL,4.0
+108,Python,4.0
+108,Excel,4.0
+108,Cleaning,4.0
+108,ETL,4.0
+108,Google Sheet,4.0
+108,Communication,4.0
+108,Pipeline,4.0
+108,spreadsheet,4.0
+109,Reporting,4.39
+109,Google Sheet,4.39
+109,spreadsheet,4.39
+110,Excel,6.25
+110,Reporting,6.25
+110,Dashboard,6.25
+110,Google Sheet,6.25
+110,Management,6.25
+110,spreadsheet,6.25
+111,Excel,10.5
+111, BI,10.5
+111, AI,10.5
+111,KPI,10.5
+111,Metrics,10.5
+111,Strategy,10.5
+111,spreadsheet,10.5
+112,SQL,9.38
+112,Excel,9.38
+112, BI,9.38
+112,Reporting,9.38
+112,Google Sheet,9.38
+112,Management,9.38
+113,Excel,10.94
+113, BI,10.94
+113,Visual,10.94
+113, AI,10.94
+113,Reporting,10.94
+113,Dashboard,10.94
+113,Google Sheet,10.94
+113,Google Analytics,10.94
+113,Management,10.94
+113,Git,10.94
+113,Strategy,10.94
+114,SQL,6.25
+114,Python,6.25
+114,Excel,6.25
+114,Tableau,6.25
+114,Power BI,6.25
+114, BI,6.25
+114,Visual,6.25
+114,Statistic,6.25
+114,Machine Learning,6.25
+114,ETL,6.25
+114,Data Modeling,6.25
+114,Intelligence,6.25
+114,Reporting,6.25
+114,Dashboard,6.25
+114,A/B,6.25
+114,Predictive,6.25
+114,Google Analytics,6.25
+114,Looker,6.25
+114,Communication,6.25
+114,Stakeholder,6.25
+114,KPI,6.25
+114,Metrics,6.25
+114,Warehouse,6.25
+114,Azure,6.25
+114,AWS,6.25
+114,Git,6.25
+114,Strategy,6.25
+115,Excel,21.93
+115, BI,21.93
+115,Visual,21.93
+115,Reporting,21.93
+115,Google Sheet,21.93
+115,Google Analytics,21.93
+115,Looker,21.93
+115,Communication,21.93
+115,Metrics,21.93
+115,Git,21.93
+115,Strategy,21.93
+116,Critical Thinking,6.5
+117,Excel,5.0
+117,Reporting,5.0
+117,Dashboard,5.0
+117,Google Sheet,5.0
+117,Communication,5.0
+117,Management,5.0
+118, BI,6.09
+118,Statistic,6.09
+118, AI,6.09
+119,Excel,6.88
+119,Reporting,6.88
+119,Google Sheet,6.88
+119,Communication,6.88
+119,Management,6.88
+119,Metrics,6.88
+119,Strategy,6.88
+119,spreadsheet,6.88
+120, BI,
+120,Dashboard,
+120,Google Sheet,
+120,Metrics,
+120,Git,
+121,Excel,
+121,Machine Learning,
+121, AI,
+121,Google Sheet,
+121,Communication,
+121,spreadsheet,
+122,Excel,3.12
+122,Machine Learning,3.12
+122, AI,3.12
+122,Google Sheet,3.12
+122,Communication,3.12
+122,spreadsheet,3.12
+123,Python,11.24
+123,Excel,11.24
+123, AI,11.24
+123,Pandas,11.24
+124,SQL,8.22
+124,Excel,8.22
+124,Tableau,8.22
+124,Power BI,8.22
+124, BI,8.22
+124,Visual,8.22
+124,Reporting,8.22
+124,Dashboard,8.22
+124,A/B,8.22
+124,Google Sheet,8.22
+124,Looker,8.22
+124,Communication,8.22
+124,Stakeholder,8.22
+124,KPI,8.22
+124,Metrics,8.22
+124,Git,8.22
+124,Strategy,8.22
+125,Excel,8.22
+125,Power BI,8.22
+125, BI,8.22
+125,Visual,8.22
+125,Reporting,8.22
+125,Dashboard,8.22
+125,Communication,8.22
+125,Metrics,8.22
+125,Pipeline,8.22
+126,Excel,5.0
+126,Power BI,5.0
+126, BI,5.0
+126,Visual,5.0
+126,Reporting,5.0
+126,Dashboard,5.0
+126,Communication,5.0
+126,Metrics,5.0
+126,Pipeline,5.0
+127,Excel,4.69
+127,Reporting,4.69
+127,Dashboard,4.69
+127,Google Sheet,4.69
+127,Communication,4.69
+128,Excel,5.62
+128,Tableau,5.62
+128, BI,5.62
+128,Statistic,5.62
+128,A/B,5.62
+128,Google Analytics,5.62
+128,Communication,5.62
+128,Management,5.62
+129,Visual,
+129, AI,
+129,Reporting,
+129,Google Sheet,
+129,Looker,
+130,Python,7.68
+130,Excel,7.68
+130,Tableau,7.68
+130,Power BI,7.68
+130, BI,7.68
+130,Visual,7.68
+130, AI,7.68
+130,Reporting,7.68
+130,Dashboard,7.68
+130,Predictive,7.68
+130,Looker,7.68
+130,KPI,7.68
+131,SQL,7.5
+131,Python,7.5
+131,Excel,7.5
+131,Tableau,7.5
+131,Visual,7.5
+131,Dashboard,7.5
+131,Communication,7.5
+131,Stakeholder,7.5
+131,KPI,7.5
+131,Git,7.5
+132,Excel,6.56
+132,Reporting,6.56
+132,Dashboard,6.56
+132,A/B,6.56
+132,Google Analytics,6.56
+132,Looker,6.56
+132,Communication,6.56
+132,KPI,6.56
+132,Metrics,6.56
+132,Git,6.56
+133,Excel,5.0
+133, AI,5.0
+133,Pipeline,5.0
+134,Google Sheet,10.0
+134,spreadsheet,10.0
+135,ETL,15.62
+135,Google Analytics,15.62
+136,SQL,6.25
+136,Python,6.25
+136,Excel,6.25
+136,Tableau,6.25
+136,Power BI,6.25
+136, BI,6.25
+136,Visual,6.25
+136,Reporting,6.25
+136,Dashboard,6.25
+136,Communication,6.25
+136,Stakeholder,6.25
+136,Management,6.25
+136,KPI,6.25
+136,Pipeline,6.25
+136,AWS,6.25
+136,Pandas,6.25
+136,NumPy,6.25
+137,SQL,8.5
+137,Python,8.5
+137,Dashboard,8.5
+138,Excel,5.0
+138,Communication,5.0
+138,Management,5.0
+138,Metrics,5.0
+138,Storytelling,5.0
+138,Strategy,5.0
+139,Excel,
+139, BI,
+139,Visual,
+139,Dashboard,
+139,Google Sheet,
+139,Communication,
+139,Stakeholder,
+139,Metrics,
+139,Strategy,
+140,Visual,7.5
+140,Metrics,7.5
+141,Excel,4.39
+141,Power BI,4.39
+141, BI,4.39
+141, AI,4.39
+141,Reporting,4.39
+141,Dashboard,4.39
+141,Google Sheet,4.39
+141,Looker,4.39
+141,Communication,4.39
+141,Management,4.39
+141,KPI,4.39
+141,Metrics,4.39
+141,Warehouse,4.39
+141,spreadsheet,4.39
+142,SQL,35.0
+142,Excel,35.0
+142,Tableau,35.0
+142,Power BI,35.0
+142, BI,35.0
+142,Visual,35.0
+142,Statistic,35.0
+142,Reporting,35.0
+142,Dashboard,35.0
+142,A/B,35.0
+142,Google Analytics,35.0
+142,Critical Thinking,35.0
+142,Communication,35.0
+142,Stakeholder,35.0
+142,Management,35.0
+142,KPI,35.0
+142,Metrics,35.0
+142,Git,35.0
+142,Strategy,35.0
+143,Excel,3.75
+143,Dashboard,3.75
+143,Google Sheet,3.75
+143,KPI,3.75
+144,Excel,3.12
+144,Visual,3.12
+144,Cleaning,3.12
+144,Reporting,3.12
+144,Google Sheet,3.12
+144,Looker,3.12
+144,Communication,3.12
+144,spreadsheet,3.12
+145,Excel,3.12
+145,Management,3.12
+145,KPI,3.12
+146,SQL,
+146,Python,
+146,Excel,
+146,Tableau,
+146,Power BI,
+146, BI,
+146,Visual,
+146,Statistic,
+146,Reporting,
+146,Dashboard,
+146,Communication,
+146,Stakeholder,
+146,Management,
+146,Metrics,
+147,Excel,6.25
+147, BI,6.25
+147,spreadsheet,6.25
+148,Excel,10.41
+149,SQL,
+149,Excel,
+149,Tableau,
+149,Visual,
+149,Reporting,
+149,Dashboard,
+149,Google Sheet,
+149,Snowflake,
+149,Communication,
+149,Management,
+150,Visual,10.41
+150,Stakeholder,10.41
+150,Metrics,10.41
+151,SQL,1.88
+151,Excel,1.88
+151,Tableau,1.88
+151,Visual,1.88
+151,Reporting,1.88
+151,Dashboard,1.88
+151,Google Sheet,1.88
+151,Snowflake,1.88
+151,Communication,1.88
+151,Management,1.88
+152,Excel,14.0
+152,Dashboard,14.0
+152,Google Sheet,14.0
+152,Communication,14.0
+153,Excel,4.0
+153,Reporting,4.0
+153,Google Sheet,4.0
+153,Communication,4.0
+153,KPI,4.0
+153,Metrics,4.0
+153,Git,4.0
+154,SQL,10.0
+154,Visual,10.0
+154,Snowflake,10.0
+155,Excel,
+155, AI,
+155,Communication,
+155,Management,
+155,Strategy,
+155,spreadsheet,
+156,Excel,125.0
+156,Visual,125.0
+156,Dashboard,125.0
+156,Google Analytics,125.0
+156,Looker,125.0
+156,Stakeholder,125.0
+156,Metrics,125.0
+156,Git,125.0
+156,Strategy,125.0
+157,SQL,5.0
+157,Visual,5.0
+157,Reporting,5.0
+157,Dashboard,5.0
+157,Google Analytics,5.0
+157,Looker,5.0
+157,Metrics,5.0
+157,Pipeline,5.0
+157,spreadsheet,5.0
+158,SQL,9.0
+158,Python,9.0
+158,Excel,9.0
+158,Tableau,9.0
+158,Power BI,9.0
+158, BI,9.0
+158,Visual,9.0
+159,Python,7.0
+159,Excel,7.0
+159,Tableau,7.0
+159,Power BI,7.0
+159, BI,7.0
+159,Visual,7.0
+160,Excel,
+160,Tableau,
+160, BI,
+160,Visual,
+160, AI,
+160,Reporting,
+160,Google Sheet,
+160,Google Analytics,
+160,Communication,
+160,Stakeholder,
+160,Management,
+160,Metrics,
+160,Pipeline,
+160,spreadsheet,
+161,Communication,10.0
+161,spreadsheet,10.0
+162,Visual,
+162,Metrics,
+162,Strategy,
+163,Excel,4.11
+163,Visual,4.11
+163,Communication,4.11
+163,Management,4.11
+164,Excel,3.75
+164,Tableau,3.75
+164,Power BI,3.75
+164, BI,3.75
+164,Visual,3.75
+164, AI,3.75
+164,Reporting,3.75
+164,Dashboard,3.75
+164,Communication,3.75
+164,Management,3.75
+164,Git,3.75
+165,Excel,6.88
+165,Google Analytics,6.88
+165,Communication,6.88
+165,KPI,6.88
+165,Metrics,6.88
+165,Git,6.88
+165,Strategy,6.88
+166,SQL,4.38
+166,Python,4.38
+166,Excel,4.38
+166,Tableau,4.38
+166,Power BI,4.38
+166, BI,4.38
+166,Visual,4.38
+166,Statistic,4.38
+166,Cleaning,4.38
+166,Management,4.38
+166,Metrics,4.38
+166,Git,4.38
+167,Excel,3.12
+167,Visual,3.12
+167,Dashboard,3.12
+167,KPI,3.12
+168,SQL,18.75
+168,Excel,18.75
+168,Data Modeling,18.75
+168,Google Sheet,18.75
+168,Warehouse,18.75
+168,Strategy,18.75
+168,spreadsheet,18.75
+169,SQL,10.0
+169,Python,10.0
+169,Excel,10.0
+169,Visual,10.0
+169,Statistic,10.0
+169,Intelligence,10.0
+169,Reporting,10.0
+169,Communication,10.0
+170,SQL,6.25
+170,Excel,6.25
+170,Power BI,6.25
+170, BI,6.25
+170,Visual,6.25
+170,ETL,6.25
+170,Reporting,6.25
+170,Dashboard,6.25
+170,Communication,6.25
+170,Management,6.25
+171,,6.25
+172,,8.38
+173,Excel,6.25
+173,Git,6.25
+174,SQL,5.0
+174,Excel,5.0
+174,Google Analytics,5.0
+174,Metrics,5.0
+175,SQL,
+175,Python,
+175,Visual,
+175,Dashboard,
+175,Stakeholder,
+175,Metrics,
+176,Excel,6.25
+176,Tableau,6.25
+176, BI,6.25
+176,Reporting,6.25
+176,Google Analytics,6.25
+176,Communication,6.25
+176,Stakeholder,6.25
+176,Management,6.25
+176,KPI,6.25
+176,Git,6.25
+177,Excel,6.25
+177,Visual,6.25
+177,Dashboard,6.25
+177,A/B,6.25
+177,Google Sheet,6.25
+177,Looker,6.25
+177,Communication,6.25
+177,Metrics,6.25
+177,Git,6.25
+178,Excel,6.25
+178,Visual,6.25
+178,Dashboard,6.25
+178,A/B,6.25
+178,Google Sheet,6.25
+178,Looker,6.25
+178,Communication,6.25
+178,Metrics,6.25
+178,Git,6.25
+179,Excel,
+179,Visual,
+179,Dashboard,
+179,A/B,
+179,Google Sheet,
+179,Looker,
+179,Communication,
+179,Metrics,
+179,Git,
+180,SQL,6.25
+180,Python,6.25
+180,Excel,6.25
+180,Tableau,6.25
+180,Visual,6.25
+180,Reporting,6.25
+180,Dashboard,6.25
+180,Google Sheet,6.25
+180,Stakeholder,6.25
+180,Metrics,6.25
+181,Metrics,6.25
+182,Metrics,
+183,SQL,6.56
+183,Python,6.56
+183,Excel,6.56
+183,Tableau,6.56
+183,Power BI,6.56
+183, BI,6.56
+183,Visual,6.56
+183,Statistic,6.56
+183, AI,6.56
+183,Big Data,6.56
+183,Reporting,6.56
+183,Dashboard,6.56
+183,Predictive,6.56
+183,Google Sheet,6.56
+183,Communication,6.56
+183,Stakeholder,6.56
+184,Excel,7.12
+184, BI,7.12
+184,Reporting,7.12
+184,Communication,7.12
+184,Management,7.12
+185,,6.0
+186,SQL,6.58
+186,Excel,6.58
+186,Tableau,6.58
+186,Power BI,6.58
+186, BI,6.58
+186,Visual,6.58
+186,Statistic,6.58
+186,Dashboard,6.58
+186,Predictive,6.58
+186,Critical Thinking,6.58
+186,Communication,6.58
+186,Management,6.58
+186,Metrics,6.58
+187,SQL,4.78
+187,Excel,4.78
+187,Visual,4.78
+187,Data Modeling,4.78
+187,Reporting,4.78
+187,Dashboard,4.78
+187,Communication,4.78
+187,Stakeholder,4.78
+188,,5.0
+189,Excel,5.0
+189, AI,5.0
+189,Communication,5.0
+190,Excel,5.0
+190, BI,5.0
+190,Visual,5.0
+190,Statistic,5.0
+190,Big Data,5.0
+190,Data Mining,5.0
+190,Spark,5.0
+190,Communication,5.0
+190,Git,5.0
+190,Storytelling,5.0
+191,Visual,4.38
+191,Statistic,4.38
+191,Management,4.38
+192,Visual,3.12
+192,Statistic,3.12
+192,Management,3.12
+193,Visual,187.5
+193,Statistic,187.5
+193,Management,187.5
+194,Excel,3.12
+194, BI,3.12
+194,Intelligence,3.12
+194,Google Sheet,3.12
+194,Management,3.12
+194,Git,3.12
+194,Strategy,3.12
+195,Python,
+195,Excel,
+195,Statistic,
+195,Cleaning,
+195,Communication,
+195,Management,
+196,Excel,7.81
+196,Cleaning,7.81
+196,Communication,7.81
+196,Management,7.81
+196,KPI,7.81
+197,SQL,
+197,Python,
+197,Excel,
+197,Tableau,
+197,Power BI,
+197, BI,
+197,Visual,
+197,Statistic,
+197,Reporting,
+197,Dashboard,
+197,Communication,
+197,KPI,
+197,Pandas,
+198, BI,6.25
+198,Statistic,6.25
+198,Reporting,6.25
+198,Google Analytics,6.25
+198,Communication,6.25
+198,Management,6.25
+198,Metrics,6.25
+198,Strategy,6.25
+199,Excel,6.25
+199, BI,6.25
+199,Git,6.25
+199,spreadsheet,6.25
+200,Management,10.96
+200,Strategy,10.96

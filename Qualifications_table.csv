@@ -1,0 +1,470 @@
+ID,Qualifications,Salary
+1,experience,
+2,experience,5.0
+3,experience,5.62
+4,experience,7.81
+4,portfolio,7.81
+4,senior,7.81
+5,experience,9.75
+6,education,4.66
+6,experience,4.66
+6,project,4.66
+7,experience,4.69
+8,engineering,
+8,experience,
+8,project,
+9,experience,4.66
+9,excellent communication skills,4.66
+10,experience,5.0
+10,entry,5.0
+11,experience,4.69
+11,portfolio,4.69
+12,experience,7.88
+12,project,7.88
+13,experience,5.0
+14,experience,
+15,experience,5.0
+16,education,3.13
+16,computer science,3.13
+16,information technology,3.13
+16,data science,3.13
+16,experience,3.13
+16,entry,3.13
+17,experience,6.03
+17,project,6.03
+18,experience,4.69
+19,experience,10.0
+19,project,10.0
+19,internet connection,10.0
+20,economics,
+20,experience,
+21,experience,4.69
+21,portfolio,4.69
+22,education,
+22,experience,
+22,excellent communication skills,
+23,experience,7.5
+24,computer science,
+24,engineering,
+24,data science,
+24,experience,
+25,mathematics,5.0
+25,computer science,5.0
+25,experience,5.0
+26,experience,
+27,experience,5.0
+28,experience,4.66
+29,education,7.68
+29,experience,7.68
+29,senior,7.68
+30,graduate,7.68
+30,experience,7.68
+30,portfolio,7.68
+30,mid,7.68
+30,senior,7.68
+31,graduate,8.0
+31,mathematics,8.0
+31,computer science,8.0
+31,engineering,8.0
+31,experience,8.0
+31,portfolio,8.0
+31,mid,8.0
+31,senior,8.0
+32,experience,10.96
+32,project,10.96
+33,mathematics,13.75
+33,computer science,13.75
+33,experience,13.75
+33,certifications,13.75
+33,Google Data Analytics,13.75
+33,senior,13.75
+34,experience,6.0
+35,experience,7.0
+36,experience,3.12
+36,certifications,3.12
+36,project,3.12
+36,senior,3.12
+37,,5.0
+38,engineering,9.45
+38,experience,9.45
+39,experience,
+40,experience,15.62
+41,education,17.19
+41,project,17.19
+42,education,17.19
+42,project,17.19
+43,education,8.59
+43,project,8.59
+44,experience,14.0
+45,experience,4.0
+45,entry,4.0
+46,experience,15.0
+46,senior,15.0
+47,experience,4.48
+47,entry,4.48
+47,senior,4.48
+48,experience,5.0
+49,experience,
+49,project,
+49,entry,
+49,internet connection,
+50,education,
+50,master's degree,
+50,data science,
+50,experience,
+50,portfolio,
+51,experience,6.5
+51,entry,6.5
+52,,6.25
+53,experience,7.29
+54,engineering,4.69
+54,data science,4.69
+54,experience,4.69
+54,mid,4.69
+55,experience,
+56,mathematics,
+56,economics,
+56,experience,
+56,project,
+57,graduate,3.8
+57,experience,3.8
+58,,5.0
+59,experience,4.11
+60,engineering,7.5
+60,data science,7.5
+60,experience,7.5
+61,engineering,4.69
+61,experience,4.69
+61,portfolio,4.69
+62,education,10.94
+62,experience,10.94
+62,entry,10.94
+63,experience,6.25
+63,senior,6.25
+64,internet connection,7.5
+65,experience,4.69
+65,portfolio,4.69
+65,project,4.69
+65,entry,4.69
+66,experience,3.12
+66,internet connection,3.12
+67,experience,6.5
+67,project,6.5
+67,entry,6.5
+67,internet connection,6.5
+68,experience,1.88
+68,project,1.88
+68,entry,1.88
+69,experience,8.0
+69,portfolio,8.0
+70,experience,7.5
+70,portfolio,7.5
+71,experience,4.69
+71,portfolio,4.69
+71,project,4.69
+71,mid,4.69
+71,senior,4.69
+72,,4.06
+73,experience,8.0
+73,portfolio,8.0
+73,project,8.0
+74,,13.16
+75,experience,6.25
+76,experience,7.81
+77,education,137.5
+77,experience,137.5
+77,entry,137.5
+77,senior,137.5
+78,project,7.5
+79,education,6.03
+79,engineering,6.03
+79,experience,6.03
+80,data science,7.81
+80,experience,7.81
+81,engineering,
+81,data science,
+81,experience,
+81,portfolio,
+82,experience,6.25
+82,excellent communication skills,6.25
+82,project,6.25
+83,engineering,3.12
+83,experience,3.12
+83,senior,3.12
+84,engineering,6.25
+84,experience,6.25
+85,experience,5.62
+85,senior,5.62
+86,experience,2.19
+87,experience,5.0
+87,entry,5.0
+88,experience,2.5
+88,project,2.5
+89,experience,
+89,certifications,
+89,Microsoft Certified,
+90,certificate,7.5
+90,experience,7.5
+90,entry,7.5
+91,experience,5.0
+91,entry,5.0
+92,experience,2.5
+92,excellent communication skills,2.5
+92,portfolio,2.5
+93,experience,3.0
+93,entry,3.0
+94,experience,3.0
+94,project,3.0
+95,experience,
+96,data science,10.0
+96,experience,10.0
+97,education,5.0
+97,experience,5.0
+97,portfolio,5.0
+97,project,5.0
+98,experience,10.0
+98,portfolio,10.0
+98,project,10.0
+99,experience,2.63
+100,experience,4.39
+100,project,4.39
+101,project,
+102,portfolio,10.0
+102,project,10.0
+103,experience,4.69
+104,experience,6.25
+104,portfolio,6.25
+105,,
+106,experience,4.66
+106,mid,4.66
+106,senior,4.66
+107,experience,5.0
+107,portfolio,5.0
+108,engineering,4.0
+108,experience,4.0
+109,experience,4.39
+109,entry,4.39
+110,engineering,6.25
+110,economics,6.25
+110,experience,6.25
+110,entry,6.25
+110,senior,6.25
+111,experience,10.5
+111,project,10.5
+112,experience,9.38
+112,project,9.38
+113,experience,10.94
+113,mid,10.94
+113,senior,10.94
+114,mathematics,6.25
+114,computer science,6.25
+114,data science,6.25
+114,experience,6.25
+114,excellent communication skills,6.25
+114,portfolio,6.25
+114,project,6.25
+114,internet connection,6.25
+115,experience,21.93
+115,internet connection,21.93
+116,portfolio,6.5
+117,experience,5.0
+117,entry,5.0
+118,experience,6.09
+119,experience,6.88
+119,project,6.88
+119,entry,6.88
+119,internet connection,6.88
+120,experience,
+121,engineering,
+121,experience,
+122,engineering,3.12
+122,experience,3.12
+123,experience,11.24
+123,project,11.24
+124,education,8.22
+124,experience,8.22
+124,internship,8.22
+124,senior,8.22
+125,experience,8.22
+125,portfolio,8.22
+126,experience,5.0
+126,portfolio,5.0
+127,experience,4.69
+127,entry,4.69
+128,experience,5.62
+128,excellent communication skills,5.62
+128,portfolio,5.62
+129,experience,
+130,master's degree,7.68
+130,data science,7.68
+130,experience,7.68
+130,portfolio,7.68
+130,project,7.68
+130,internet connection,7.68
+131,experience,7.5
+131,excellent communication skills,7.5
+131,project,7.5
+131,senior,7.5
+132,experience,6.56
+132,excellent communication skills,6.56
+132,certifications,6.56
+133,experience,5.0
+133,entry,5.0
+133,internet connection,5.0
+134,experience,10.0
+134,entry,10.0
+135,internet connection,15.62
+136,experience,6.25
+136,project,6.25
+137,experience,8.5
+138,experience,5.0
+138,project,5.0
+139,economics,
+139,experience,
+140,,7.5
+141,experience,4.39
+141,portfolio,4.39
+141,project,4.39
+142,education,35.0
+142,experience,35.0
+143,experience,3.75
+143,mid,3.75
+144,experience,3.12
+144,project,3.12
+145,,3.12
+146,economics,
+146,information technology,
+146,data science,
+146,experience,
+146,project,
+146,entry,
+147,,6.25
+148,experience,10.41
+149,experience,
+149,project,
+150,,10.41
+151,experience,1.88
+151,project,1.88
+152,experience,14.0
+152,project,14.0
+153,experience,4.0
+154,experience,10.0
+155,experience,
+155,excellent communication skills,
+155,project,
+155,entry,
+156,experience,125.0
+156,project,125.0
+156,senior,125.0
+157,experience,5.0
+158,graduate,9.0
+158,experience,9.0
+159,experience,7.0
+159,portfolio,7.0
+160,experience,
+160,project,
+160,senior,
+161,,10.0
+162,,
+163,experience,4.11
+163,portfolio,4.11
+163,project,4.11
+164,experience,3.75
+164,project,3.75
+165,education,6.88
+165,data science,6.88
+165,experience,6.88
+165,excellent communication skills,6.88
+165,project,6.88
+166,education,4.38
+166,engineering,4.38
+166,data science,4.38
+166,experience,4.38
+166,senior,4.38
+167,,3.12
+168,mathematics,18.75
+168,economics,18.75
+168,experience,18.75
+169,education,10.0
+169,computer science,10.0
+169,information technology,10.0
+169,experience,10.0
+169,project,10.0
+170,experience,6.25
+170,portfolio,6.25
+170,project,6.25
+171,experience,6.25
+171,project,6.25
+172,experience,8.38
+172,project,8.38
+173,experience,6.25
+174,experience,5.0
+175,experience,
+175,project,
+175,internet connection,
+176,experience,6.25
+177,experience,6.25
+177,project,6.25
+178,experience,6.25
+178,project,6.25
+179,experience,
+179,project,
+180,engineering,6.25
+180,experience,6.25
+181,education,6.25
+181,experience,6.25
+181,project,6.25
+182,education,
+182,experience,
+182,project,
+183,computer science,6.56
+183,data science,6.56
+183,experience,6.56
+183,excellent communication skills,6.56
+184,experience,7.12
+185,,6.0
+186,data science,6.58
+186,experience,6.58
+187,experience,4.78
+187,entry,4.78
+187,internet connection,4.78
+188,,5.0
+189,education,5.0
+189,experience,5.0
+190,experience,5.0
+190,excellent communication skills,5.0
+190,project,5.0
+191,education,4.38
+191,mathematics,4.38
+191,engineering,4.38
+191,experience,4.38
+191,portfolio,4.38
+191,project,4.38
+192,education,3.12
+192,mathematics,3.12
+192,engineering,3.12
+192,experience,3.12
+192,portfolio,3.12
+192,project,3.12
+193,education,187.5
+193,mathematics,187.5
+193,engineering,187.5
+193,experience,187.5
+193,portfolio,187.5
+193,project,187.5
+194,experience,3.12
+194,project,3.12
+195,experience,
+195,mid,
+196,experience,7.81
+196,project,7.81
+197,mathematics,
+197,computer science,
+197,data science,
+197,experience,
+197,certifications,
+197,project,
+198,experience,6.25
+198,portfolio,6.25
+199,experience,6.25
+200,experience,10.96
