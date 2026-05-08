@@ -21,8 +21,8 @@ This project investigates the **Philippine Data Analyst job market** by scraping
 ## 📁 Project Structure
 
 ```
-├── 01_scraper.py              # Selenium scraper — collects raw job postings
-├── 02_cleaning.ipynb          # Jupyter notebook — data cleaning & experimentation
+├── webScraper.py              # Selenium scraper — collects raw job postings
+├── jobScript.ipynb          # Jupyter notebook — data cleaning & experimentation
 ├── streamlitWeb.py            # Streamlit web report — EDA presentation
 ├── raw_datas_job_postings.csv # Raw scraped dataset (200 postings)
 ├── Parsed_dataset.csv         # Cleaned dataset with parsed columns
@@ -36,7 +36,7 @@ This project investigates the **Philippine Data Analyst job market** by scraping
 
 ## ⚙️ How It Works
 
-### Step 1 — Scraping (`01_scraper.py`)
+### Step 1 — Scraping (`webScraper.py`)
 Uses **Selenium** to search OnlineJobs.ph for "data analyst" and scrapes 200 job postings across multiple pages. For each posting it extracts:
 - Job Title, Job Type, Salary, Hours, Date, Description, and Link
 
@@ -67,7 +67,7 @@ Install with:
 pip install selenium pandas streamlit matplotlib
 ```
 
-You will also need **ChromeDriver** matching your Chrome version. Update the path in `01_scraper.py`:
+You will also need **ChromeDriver** matching your Chrome version. Update the path in `webScraper.py`:
 ```python
 PATH = "C:\\Program Files (x86)\\chromedriver.exe"
 ```
@@ -78,7 +78,7 @@ PATH = "C:\\Program Files (x86)\\chromedriver.exe"
 
 **Run the scraper:**
 ```bash
-python 01_scraper.py
+python webScraper.py
 ```
 
 **Run the Streamlit report:**
