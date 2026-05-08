@@ -40,7 +40,7 @@ This project investigates the **Philippine Data Analyst job market** by scraping
 Uses **Selenium** to search OnlineJobs.ph for "data analyst" and scrapes 200 job postings across multiple pages. For each posting it extracts:
 - Job Title, Job Type, Salary, Hours, Date, Description, and Link
 
-### Step 2 — Cleaning & Parsing (`02_cleaning.ipynb`)
+### Step 2 — Cleaning & Parsing (`jobScript.ipynb`)
 The raw `Description` column is parsed using manually reviewed keyword lists for:
 - **Skills** (e.g. SQL, Python, Excel, Power BI)
 - **Qualifications** (e.g. bachelor's degree, experience, certifications)
